@@ -1,0 +1,16 @@
+How to use git (Commands)
+
+    1. git add . (add the file that exist in the branch that you are in)
+
+    2. git status (check if there are any file for commit)
+
+    3. git commit -m "Comments" (Commit to branch)
+
+    4. git switch Branch-Name (Change branch)
+
+    5. git push (push the exists file in the main branch to github)
+
+    6. git merge -m "Comments" Branch-Name-To-Merge (merge the other branch to the main branch)
+
+    7. git pull (pull the exist file from the github)
+    
