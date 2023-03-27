@@ -1,0 +1,29 @@
+.welcome-tags {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 3rem;
+    font-size: 32pt;
+}
+.block {
+    margin: 0.5rem;
+    padding: 2rem;
+    /* border: 1px solid black; */
+}
+a.title {
+    font-size: 20pt;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    color: black;
+}
+.pic {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    width: 1000px;
+    height: 500px;
+    /* border: 1px solid black; */
+}
+.image {
+    width: 1000px;
+    height: 500px;
+}
