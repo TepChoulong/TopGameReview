@@ -4,16 +4,47 @@
     ViewData["Title"] = "FreeShootingGames_Page_1";
 }
 
-<h1>@ViewData["Title"]</h1>
-
-<div>
-    <h1>Welcome to Shooting</h1>
-    @{
-        int length = 10;
-
-        @for (int i = 0; i <= length; i++)
-        {
-            <p>Hello World! @i</p>
-        }
-    }
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="~/css/FreeShootingGame.css">
+</head>
+<body>
+    <div>
+        <h1 class="welcome-txt">Welcome to Top Free Shooting Games</h1>
+        <section class="block">
+            <span>
+                <img src="https://www.talkesport.com/wp-content/uploads/CSGO-Operation-10-Details.jpg" 
+                alt="This the pic of the <Game Name>"
+                width="550px" height="326px">
+            </span>
+            <span class="descriptions">
+                <a href="" class="title">Counter Strike Global Offical</a>
+                <p>Descriptions</p>
+                <p>Rate: </p>
+                <p>Publisher: </p>
+                <p>Release Date: </p>
+            </span>
+        </section>
+        <hr>
+        <section class="block">
+            <span>
+                <img src="https://www.talkesport.com/wp-content/uploads/CSGO-Operation-10-Details.jpg" 
+                alt="This the pic of the <Game Name>"
+                width="550px" height="326px">
+            </span>
+            <span class="descriptions">
+                <a href="" class="title">Counter Strike Global Offical</a>
+                <p>Descriptions</p>
+                <p>Rate: </p>
+                <p>Publisher: </p>
+                <p>Release Date: </p>
+            </span>
+        </section>
+    </div>
+</body>
+</html>
