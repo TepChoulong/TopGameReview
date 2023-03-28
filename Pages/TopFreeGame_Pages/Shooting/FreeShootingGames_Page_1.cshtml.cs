@@ -19,6 +19,7 @@ namespace TopGameReview.Pages.TopFreeGame_Pages.Survival
 
         public void OnGet()
         {
+            
         }
     }
 }
