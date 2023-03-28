@@ -17,16 +17,6 @@
   "RootNamespace": "TopGameReview",
   "Documents": [
     {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "TargetPath": "Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
@@ -37,13 +27,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
+      "TargetPath": "Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -57,8 +52,13 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
-      "TargetPath": "Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Privacy.cshtml",
+      "TargetPath": "Pages\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
+      "TargetPath": "Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
       "FileKind": "mvc"
     }
   ],
