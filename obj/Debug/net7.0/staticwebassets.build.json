@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oKQopWj7bftjSdHmW/rD02GhYXti8Mz4WKrwcEAwk8s=",
+  "Hash": "YKRfWsvsqPBhBT+AgcaNpCZh4oDWk8qoBui3p77/KL8=",
   "Source": "TopGameReview",
   "BasePath": "_content/TopGameReview",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "F:\\GitHub\\TopGameReview\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TopGameReview.bundle.scp.css"
+    },
+    {
+      "Identity": "F:\\GitHub\\TopGameReview\\wwwroot\\css\\FreeShootingGame.css",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHub\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "css/FreeShootingGame.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\FreeShootingGame.css"
     },
     {
       "Identity": "F:\\GitHub\\TopGameReview\\wwwroot\\css\\index.css",

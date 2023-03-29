@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\TopGameReview.bundle.scp.css"
     },
     {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\css\\FreeShootingGame.css",
+      "PackagePath": "staticwebassets\\css\\FreeShootingGame.css"
+    },
+    {
       "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\css\\index.css",
       "PackagePath": "staticwebassets\\css\\index.css"
     },
