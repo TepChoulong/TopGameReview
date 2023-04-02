@@ -35,11 +35,10 @@ html {
 img {
     border-radius: 2.5rem;
 }
-.descriptions a {
+.descriptions .title {
     margin-left: 2rem;
     font-size: 20pt;
     font-weight: 600;
-    text-decoration: underline;
     color: black;
 }
 .descriptions p {
@@ -61,11 +60,4 @@ img {
 
 /* Animation */
 
-.descriptions a:hover {
-    margin-left: 2rem;
-    font-size: 20pt;
-    font-weight: 600;
-    text-decoration: none;
-    color: rgb(255, 0, 0);
-    transition: ease-in 0.15s;
-}
+
