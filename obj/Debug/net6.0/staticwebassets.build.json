@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aCm8+l7BXhmz24/iyyGPsUf9HRMUMl7ulCgwPJXdEvY=",
+  "Hash": "k4qtuu6csPWAWiT5IRGPY9jYc2o2W/WmNzXvLBRo278=",
   "Source": "TopGameReview",
   "BasePath": "_content/TopGameReview",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TopGameReview.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\css\\FreeShootingGame.css",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "css/FreeShootingGame.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\FreeShootingGame.css"
     },
     {
       "Identity": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\css\\index.css",
@@ -1086,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\pic\\APEX_LEGEND.jpg",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "pic/APEX_LEGEND.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic\\APEX_LEGEND.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\pic\\CSGO.jpg",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tepva\\OneDrive\\Desktop\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "pic/CSGO.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic\\CSGO.jpg"
     }
   ]
 }

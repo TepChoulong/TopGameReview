@@ -3,7 +3,7 @@
   "FilePath": "f:\\GitHub\\TopGameReview\\TopGameReview.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
-    "LanguageVersion": "7.0",
+    "LanguageVersion": "6.0",
     "Extensions": [
       {
         "ExtensionName": "MVC-3.0"
@@ -17,42 +17,8 @@
   "RootNamespace": "TopGameReview",
   "Documents": [
     {
-<<<<<<< HEAD
       "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "TargetPath": "Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-=======
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "TargetPath": "Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -61,19 +27,18 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
+      "TargetPath": "Pages\\TopFreeGame_Pages\\Shooting\\FreeShootingGames_Page_1.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
       "TargetPath": "Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Privacy.cshtml",
-      "TargetPath": "Pages\\Privacy.cshtml",
->>>>>>> TepChoulong
       "FileKind": "mvc"
     },
     {
@@ -82,23 +47,18 @@
       "FileKind": "mvc"
     },
     {
-<<<<<<< HEAD
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
-      "TargetPath": "Pages\\TopFreeGame_Pages\\Survival\\FreeSurvivalGames_Page_1.cshtml",
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
-=======
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
->>>>>>> TepChoulong
       "FileKind": "mvc"
     },
     {
-      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\Shared\\_Layout.cshtml",
-      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "f:\\GitHub\\TopGameReview\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
       "FileKind": "mvc"
     }
   ],

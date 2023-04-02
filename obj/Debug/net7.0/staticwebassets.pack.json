@@ -253,6 +253,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\APEX_LEGEND.jpg",
+      "PackagePath": "staticwebassets\\pic\\APEX_LEGEND.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\CSGO.jpg",
+      "PackagePath": "staticwebassets\\pic\\CSGO.jpg"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TopGameReview.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YKRfWsvsqPBhBT+AgcaNpCZh4oDWk8qoBui3p77/KL8=",
+  "Hash": "T73rJsAwy1E+YMF1PLra4B3JBpz5YmUM5ZtDmUM4VSY=",
   "Source": "TopGameReview",
   "BasePath": "_content/TopGameReview",
   "Mode": "Default",
@@ -1103,6 +1103,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\APEX_LEGEND.jpg",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHub\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "pic/APEX_LEGEND.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic\\APEX_LEGEND.jpg"
+    },
+    {
+      "Identity": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\CSGO.jpg",
+      "SourceId": "TopGameReview",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\GitHub\\TopGameReview\\wwwroot\\",
+      "BasePath": "_content/TopGameReview",
+      "RelativePath": "pic/CSGO.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pic\\CSGO.jpg"
     }
   ]
 }
