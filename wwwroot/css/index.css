@@ -13,7 +13,7 @@ a.title {
     font-size: 20pt;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
 }
 .pic {
