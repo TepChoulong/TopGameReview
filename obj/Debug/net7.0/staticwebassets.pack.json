@@ -253,12 +253,44 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\APEX_LEGEND.jpg",
-      "PackagePath": "staticwebassets\\pic\\APEX_LEGEND.jpg"
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Apex-Legend.jpg",
+      "PackagePath": "staticwebassets\\pic\\Apex-Legend.jpg"
     },
     {
       "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\CSGO.jpg",
       "PackagePath": "staticwebassets\\pic\\CSGO.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Destiny-2.jpg",
+      "PackagePath": "staticwebassets\\pic\\Destiny-2.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Fornite.jpg",
+      "PackagePath": "staticwebassets\\pic\\Fornite.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Pubg-Battleground.jpg",
+      "PackagePath": "staticwebassets\\pic\\Pubg-Battleground.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Rouge-Company.jpg",
+      "PackagePath": "staticwebassets\\pic\\Rouge-Company.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Team-Fortress.jpg",
+      "PackagePath": "staticwebassets\\pic\\Team-Fortress.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\The-Cycle.jpg",
+      "PackagePath": "staticwebassets\\pic\\The-Cycle.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Valorant.jpg",
+      "PackagePath": "staticwebassets\\pic\\Valorant.jpg"
+    },
+    {
+      "Id": "F:\\GitHub\\TopGameReview\\wwwroot\\pic\\Warframe.png",
+      "PackagePath": "staticwebassets\\pic\\Warframe.png"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TopGameReview.Microsoft.AspNetCore.StaticWebAssets.props",
